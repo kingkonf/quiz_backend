@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the main focus of machine learning?,a: Developing and studying statistical algorithms | b: Creating explicit instructions for tasks | c: Exploring data through unsupervised learning | d: Optimizing mathematical foundations,a
+Which field has machine learning NOT been applied to?,a: Large language models | b: Agriculture | c: Music composition | d: Medicine,c
+What provides the mathematical foundations for machine learning?,a: Data mining | b: Mathematical optimization | c: Predictive analytics | d: Generative artificial neural networks,b
+Which framework describes machine learning from a theoretical point of view?,a: Parallel learning | b: Exploratory data analysis | c: Probably approximately correct (PAC) learning | d: Statistical algorithms,c
+What is the main goal of machine learning algorithms?,a: Generalize to unseen data | b: Follow explicit instructions | c: Focus only on supervised learning | d: Avoid data analysis,a
